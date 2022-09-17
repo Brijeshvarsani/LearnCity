@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: 57b93956a3d34354ea5530e46bf8d87b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sTiles_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 264
+        width: 68
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565373da10361e94aa8452b36ecbad37
+      internalID: 51976420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sTiles_4
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 264
+        width: 70
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fa0055f65f3ad4791738ba7efaadf8
+      internalID: -1550720868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sTiles_24: 277748304
+      sTiles_46: -14719086
+      sTiles_63: 737842327
+      sTiles_57: 1954256956
+      sTiles_25: -2090331612
+      sTiles_22: 1256805468
+      sTiles_35: -325071196
+      sTiles_48: -949581104
+      sTiles_62: 239924528
+      sTiles_31: 911328405
+      sTiles_0: -1963172487
+      sTiles_11: 2128995176
+      sTiles_21: -928320319
+      sTiles_43: 1567051860
+      sTiles_47: -1785084802
+      sTiles_4: -1550720868
+      sTiles_42: 1328139022
+      sTiles_9: -2122883457
+      sTiles_14: 1147416841
+      sTiles_1: 1407240554
+      sTiles_29: -2109430640
+      sTiles_37: -291247937
+      sTiles_36: -416882486
+      sTiles_10: -1478989386
+      sTiles_16: -473916387
+      sTiles_38: -1996129557
+      sTiles_5: -1935264093
+      sTiles_15: -5082426
+      sTiles_30: 1751599853
+      sTiles_33: -1464921899
+      sTiles_6: -445183635
+      sTiles_27: -1936855937
+      sTiles_34: 1124455258
+      sTiles_28: -711435487
+      sTiles_53: 276943685
+      sTiles_61: 1422114010
+      sTiles_2: -1565859563
+      sTiles_12: -1582586954
+      sTiles_8: -599373089
+      sTiles_58: -617079969
+      sTiles_7: -128014238
+      sTiles_60: -1462406490
+      sTiles_40: -1420909829
+      sTiles_17: -1292426457
+      sTiles_23: 407727203
+      sTiles_32: 1357712230
+      sTiles_13: 2056439208
+      sTiles_19: -1297848141
+      sTiles_45: -866669360
+      sTiles_56: -1577082138
+      sTiles_18: -1222044209
+      sTiles_59: 1297370794
+      sTiles_39: -2128762858
+      sTiles_49: -1680262571
+      sTiles_52: 984693672
+      sTiles_26: -2075704492
+      sTiles_3: 51976420
+      sTiles_51: -1232416456
+      sTiles_55: -359375551
+      sTiles_44: 2097802097
+      sTiles_50: 530193527
+      sTiles_54: 1150112789
+      sTiles_20: -768443363
+      sTiles_41: -842756183
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e5b69a1272bdb44296d3b2164cb3ea1, type: 3}
+  m_Name: OakTree
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300024, guid: 01842c69a0801d74382f6f4ed41ec4bf, type: 3}
+  Name: Oak Tree
+  description: "An oak is a tree or shrub in the genus Quercus (/\u02C8kw\u025C\u02D0rk\u0259s/;[1]
+    Latin \"oak tree\") of the beech family, Fagaceae. There are approximately 500
+    extant species of oaks.[2] The common name \"oak\" also appears in the names
+    of species in related genera, notably Lithocarpus (stone oaks), as well as in
+    those of unrelated species such as Grevillea robusta (silky oaks) and the Casuarinaceae
+    (she-oaks). The genus Quercus is native to the Northern Hemisphere, and includes
+    deciduous and evergreen species extending from cool temperate to tropical latitudes
+    in the Americas, Asia, Europe, and North Africa. North America has the largest
+    number of oak species, with approximately 160 species in Mexico of which 109
+    are endemic and about 90 in the United States. The second greatest area of oak
+    diversity is China, with approximately 100 species.[3]"
+  resourceType: {fileID: 11400000, guid: cd040baf81b075b4c9f4d61762b24b64, type: 2}
+  resourceAmount: 100

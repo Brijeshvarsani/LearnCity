@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2d0af4645cb49a47b47319d54eb3c99, type: 3}
+  m_Name: FirstTools
+  m_EditorClassIdentifier: 
+  dialogue:
+  - 'While you wait for the construction of your house, allow me to give you some
+    advice. '
+  - To collect materials, you will need to spend some energy and energy will gradually
+    return to you over time.
+  - With certain tools, depending on their quality, can help you reduce the amount
+    of energy needed to collect materials.
+  - 'And so let''s get a wooden axe and shovel for your first pratical tools. Gather
+    the materials needed on this list here. '

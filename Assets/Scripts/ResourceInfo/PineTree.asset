@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e5b69a1272bdb44296d3b2164cb3ea1, type: 3}
+  m_Name: PineTree
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300022, guid: 01842c69a0801d74382f6f4ed41ec4bf, type: 3}
+  Name: Pine Tree
+  description: "A pine is any conifer tree or shrub in the genus Pinus (/\u02C8pi\u02D0nu\u02D0s/)[1]
+    of the family Pinaceae. Pinus is the sole genus in the subfamily Pinoideae. The
+    Plant List compiled by the Royal Botanic Gardens, Kew and Missouri Botanical
+    Garden accepts 126 species names of pines as current, together with 36 unresolved
+    species and many more synonyms.[2] The American Conifer Society (ACS) and the
+    Royal Horticultural Society accept 121 species. Pine may also refer to the lumber
+    derived from pine trees; pine is one of the more extensively used types of wood
+    used as lumber. The pine family is the largest family within conifers, and there
+    are currently 818 named cultivars, or trinomials, recognized by the ACS."
+  resourceType: {fileID: 11400000, guid: cd040baf81b075b4c9f4d61762b24b64, type: 2}
+  resourceAmount: 1000

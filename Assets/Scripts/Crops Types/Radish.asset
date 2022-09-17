@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f6000f3c0163274bbb1f1828b646827, type: 3}
+  m_Name: Radish
+  m_EditorClassIdentifier: 
+  Name: Radish
+  CropSprite: {fileID: -1780977439, guid: a1f7760c1929dde4686886f6aa662c6d, type: 3}
+  Prefab: {fileID: 5563102031541166596, guid: 18247ff99a1adc841a338aebd5d09132, type: 3}
+  unlocked: 0
+  unlockCost: 2500
+  sellValue: 2500

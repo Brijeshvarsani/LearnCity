@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2d0af4645cb49a47b47319d54eb3c99, type: 3}
+  m_Name: SecondDay
+  m_EditorClassIdentifier: 
+  dialogue:
+  - This is now your second day, now your energy has completely recovered. Most days
+    will proceed the same way as the first one did.
+  - While resting your energy will recover at a faster rate and when you rest until
+    the next day your energy will have fully recovered.
+  - You'll spend your energy collecting materials and in turn use them to construct
+    other houses and structures as well as tools to expand your city.
+  - As your expansion continues the knowledge you gain will become more profound.
+  - With it you'll be able to make breakthroughs to push your city into a whole new
+    era. You can check their progress by pressing the progress button.
+  - One last thing, as the growth of your city persists, you'll find people wanting
+    to move into your city. You can accept them or refuse them as you wish.
+  - If you accept them, you'll become capable of sending them out to gather certain
+    materials for you.

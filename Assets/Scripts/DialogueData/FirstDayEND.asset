@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2d0af4645cb49a47b47319d54eb3c99, type: 3}
+  m_Name: FirstDayEND
+  m_EditorClassIdentifier: 
+  dialogue:
+  - That will be all for your first day, you have no more energy to spend and the
+    night is upon us now.
+  - It is time to rest, get in your house and select the rest option.
+  - With it you are able to rest for a short while, rest until evening or sleep until
+    the next day, for tonight we will rest until the next day.
